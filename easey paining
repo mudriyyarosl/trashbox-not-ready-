@@ -2,7 +2,7 @@ import turtle
 
 # Setup the turtle
 screen = turtle.Screen()
-screen.setup(width=800, height=600)
+screen.setup(width=900, height=900)
 screen.bgcolor("black")
 
 pen = turtle.Turtle()
